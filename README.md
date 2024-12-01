@@ -5,7 +5,7 @@ Web developer junior
 --------------------
 
 * 🌍  I'm based in Mocoa, Putumayo, Colombia
-* 🖥️  See my portfolio at [Shayddev](http://shaydde.com)
+* 🖥️  See my portfolio at [Shayd-R](https://shayd-r.github.io/) or [Shayddev](http://shaydde.com) 
 * ✉️  You can contact me at [shaydruano@gmail.com](mailto:shaydruano@gmail.com)
 * 🧠  I'm learning java
 
